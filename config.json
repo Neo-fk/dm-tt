@@ -1,0 +1,6 @@
+{
+    "prefix": "$",
+    "color": "#79cfec",
+    "version": "1.0.1",
+     "mongooseConnectionString": "mongodb+srv://Anuwa:Anuwa@cluster0.td9o8.mongodb.net/Data"
+} 
